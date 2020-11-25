@@ -23,6 +23,9 @@ I´m software & data engineer who love new challenges & OpenSource contributions
 <img align="left" width="80px" src="https://github.com/TonGarcia/TonGarcia/blob/main/unity.png?raw=true" style="max-width:100%;">
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/python.svg?raw=true" style="max-width:100%;">
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/ruby.png?raw=true" style="max-width:100%;">
+<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/cpp.png?raw=true" style="max-width:100%;">
+<img align="left" height="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/java.png?raw=true" style="max-width:100%;">
+<img align="left" width="80px" src="https://github.com/TonGarcia/TonGarcia/blob/main/scala.jpg?raw=true" style="max-width:100%;">
 
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/aws.svg?raw=true" style="max-width:100%;">
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/azure.png?raw=true" style="max-width:100%;">
