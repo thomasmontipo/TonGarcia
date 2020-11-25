@@ -21,7 +21,11 @@ I´m software & data engineer who love new challenges & OpenSource contributions
 **Languages & Tools**:
 
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/python.svg?raw=true" style="max-width:100%;">
-<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/aws.svg?raw=true" style="max-width:100%;">
+<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/ruby.png?raw=true" style="max-width:100%;">
+<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/github.png?raw=true" style="max-width:100%;">
+<img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/git.png?raw=true" style="max-width:100%;">
+
+
 
 
 
