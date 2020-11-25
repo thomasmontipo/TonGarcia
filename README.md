@@ -34,8 +34,13 @@ I´m software & data engineer who love new challenges & OpenSource contributions
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/github.png?raw=true" style="max-width:100%;">
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/git.png?raw=true" style="max-width:100%;">
 
+<br>
+<br>
+
+<hr>
 
 
+<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TonGarcia&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jmcabreira&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
 
 
 <!--
