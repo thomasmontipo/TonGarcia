@@ -3,7 +3,7 @@
 I´m software & data engineer who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & the God's love word all over the world.
 
 - :computer: I’m currently working on Data Science for HealthTech (twice award winner) & Marketing + Drop Shipping
-- :chart_with_upwards_trend: I’m constantly learning & improving my skills (data science, virtual reality and full stack develoer (mobile+web))
+- :chart_with_upwards_trend: I’m constantly learning & improving my skills (data science, virtual reality and full stack develoer (web(front+back) & mobile))
 - :moneybag: I’m looking for Data challenges to collaborate to world growth
 
 **Connect with me:**
