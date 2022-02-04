@@ -27,6 +27,7 @@ I´m software & data engineer who love new challenges & OpenSource contributions
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/js.png?raw=true" style="max-width:100%;">
 <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/angular.png?raw=true" style="max-width:100%;">
 <img align="left" width="38px" src="https://github.com/TonGarcia/TonGarcia/blob/main/react.png?raw=true" style="max-width:100%;">
+<img align="left" width="38px" src="https://github.com/TonGarcia/TonGarcia/blob/main/flutter.png?raw=true?raw=true?raw=true" style="max-width:100%;">
 <img align="left" width="45px" src="https://github.com/TonGarcia/TonGarcia/blob/main/php.png?raw=true" style="max-width:100%;">
 
 <br>
