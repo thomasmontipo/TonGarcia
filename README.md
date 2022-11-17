@@ -4,8 +4,8 @@ I´m software & data engineer who love new challenges & OpenSource contributions
 
 - :computer: I’m currently working on Data Science for HealthTech (twice award winner) & Marketing + Drop Shipping
 - :chart_with_upwards_trend: I’m currently working on CryptoCurrency SmartContracts & FinTech
-- :books: I’m constantly learning & improving my skills (data science, virtual reality and full stack develoer (web(front+back) & mobile))
-- :moneybag: I’m looking for Data challenges to collaborate to world growth & DeFi chllanges to contribute to the Money Revolution
+- :books: I’m constantly learning & improving my skills (data science, virtual reality and full stack developer (web(front+back) & mobile))
+- :moneybag: I’m looking for Data challenges to collaborate to world growth & DeFi challenges to contribute to the Money Revolution
 
 **Connect with me:**
 
